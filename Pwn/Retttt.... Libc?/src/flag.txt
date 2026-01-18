@@ -1,0 +1,1 @@
+NevComp{this_is_a_straightforward_ret2libc_exploitation_challenge_without_unnecessary_tricks_or_misleading_complexity}

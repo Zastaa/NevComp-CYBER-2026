@@ -1,0 +1,8 @@
+services:
+  cryptominer_service:
+    container_name: cryptominer_container
+    restart: always
+    build:
+      context: .
+    ports:
+      - "12000:1337"

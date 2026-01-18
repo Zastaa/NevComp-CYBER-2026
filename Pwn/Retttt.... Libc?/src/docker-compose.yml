@@ -1,0 +1,8 @@
+version: '3'
+services:
+  ret2libc-chall:
+    build: .
+    ports:
+      - "1338:1338"
+    restart: always
+    container_name: nevcomp_ret2libc
